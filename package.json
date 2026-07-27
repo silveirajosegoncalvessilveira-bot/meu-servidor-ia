@@ -1,0 +1,10 @@
+{
+  "name": "ia-w-sistema-unificado",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.19.2",
+    "cors": "^2.8.5",
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5"
+  }
+}
